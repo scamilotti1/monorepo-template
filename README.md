@@ -96,7 +96,6 @@ When creating a new project from this template, update the following:
 | `.env`                      | `DB_NAME`                  | Database name            |
 | `.env`                      | `DATABASE_URL`             | Full connection string   |
 | `.env`                      | `KEYCLOAK_CLIENT_ID`       | Keycloak client ID       |
-| `.env`                      | `KEYCLOAK_CLIENT_SECRET`   | Keycloak client secret   |
 | `.env`                      | `KEYCLOAK_ISSUER_URL`      | Keycloak realm URL       |
 | `apps/web/public/config.js` | `realm`, `clientId`, `url` | Frontend Keycloak config |
 
